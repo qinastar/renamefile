@@ -10,8 +10,14 @@
 - 可自定义清理规则
 - 支持子目录扫描
 
+## 界面预览
+
+![FileCleaner界面预览](images/preview.png)
+
 ## 使用方法
 
 1. 运行 FileCleaner.exe
 2. 选择要处理的目录
 3. 点击"开始清理"即可
+
+

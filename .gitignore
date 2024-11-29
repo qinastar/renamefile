@@ -24,4 +24,8 @@ Thumbs.db
 
 # 虚拟环境
 venv/
-env/ 
+env/
+
+# 不忽略图片
+!images/
+!images/* 
